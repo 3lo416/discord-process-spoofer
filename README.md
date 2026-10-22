@@ -1,5 +1,6 @@
 # 🎮 Discord Process Spoofer & RPC Simulator
 
+[![Release](https://img.shields.io/github/v/release/3lo416/discord-process-spoofer?color=brightgreen&label=Download%20.exe)](https://github.com/3lo416/discord-process-spoofer/releases/latest)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-lightgrey.svg)](https://www.microsoft.com/windows)
 [![Discord IPC](https://img.shields.io/badge/Discord-Local%20IPC%20v1-7289DA.svg)](https://discord.com/developers/docs/rich-presence/how-to)
@@ -7,6 +8,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An advanced, dual-engine Windows utility designed to simulate game processes and inject custom **Discord Rich Presence (RPC)** in real time. Perfect for showcasing upcoming titles (like **Grand Theft Auto VI** and **EA SPORTS FC 27**), testing Discord game detection algorithms, or customizing your profile activity without running resource-heavy game engines.
+
+---
+
+### ⚡ Direct Download
+👉 **[Download Latest Standalone Executable (`process_simulator.exe`)](https://github.com/3lo416/discord-process-spoofer/releases/latest)** *(No Python setup required)*
 
 ---
 
